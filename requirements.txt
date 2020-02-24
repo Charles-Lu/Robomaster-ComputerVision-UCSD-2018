@@ -1,0 +1,7 @@
+numpy
+matplotlib
+tensorflow-gpu>=1.8.0
+keras>=2.2.4
+opencv-python>=3.4.0, <4.0
+scikit-learn>=0.20.2
+filterpy
